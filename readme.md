@@ -16,7 +16,9 @@ the target website. You must make your program generate a QR code that takes som
 
 
 2.  Add an image of viewing the log of successfully creating the QR code below.
- PUT YOUR LOG IMAGE HERE
+ ![image](https://github.com/user-attachments/assets/c587dde6-0d56-45ab-ad09-887245704b36)
+
+
 ## Lesson Video
 
 1.  [Scaling and Backend Software Engineering](https://youtu.be/v3LxCmYQVS4)
